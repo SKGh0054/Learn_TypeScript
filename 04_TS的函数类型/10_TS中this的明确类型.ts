@@ -19,6 +19,7 @@ function foo(this: { name: string }, info: {name: string}) {
   console.log(this, info)
 }
 
+
 foo.call({ name: "why" }, { name: "kobe" })
 
 export {}

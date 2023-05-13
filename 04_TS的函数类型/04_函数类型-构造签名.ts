@@ -8,4 +8,5 @@ function factory(fn: ICTORPerson) {
 factory(Person)
 
 
+
 export { }

@@ -26,5 +26,4 @@ info.friend!.name = "aaa"
 
 
 
-
 export { }

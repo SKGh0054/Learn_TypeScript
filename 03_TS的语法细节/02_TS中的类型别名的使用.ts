@@ -17,5 +17,4 @@ function printPoint(point: pointType) {
 
 
 
-
 export { }

@@ -14,7 +14,6 @@ interface pointType2 {
 function pp(point: pointType) { }
 function pp2(point: pointType2) { }
 
-
 // type与interface的区别
 // 1.type的使用范围更广可以赋值基本数据类型，而interface只能用来声明对象类型
 type a = number

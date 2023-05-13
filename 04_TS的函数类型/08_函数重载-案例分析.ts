@@ -38,6 +38,7 @@ function add(arg1: any, arg2: any): any {
   return arg1 + arg2
 }
 
+
 add(10, 20)
 add("aaa", "bbb")
 // 通用函数不能被调用

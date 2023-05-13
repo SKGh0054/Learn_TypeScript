@@ -18,6 +18,7 @@ class Person {
 }
 
 
+
 const p = new Person("why", 18)
 // console.log(p.name, p.age)
 // p.name = "kobe"
