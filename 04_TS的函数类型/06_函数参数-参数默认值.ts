@@ -9,6 +9,9 @@ foo(10)
 foo(10, undefined)
 foo(10, 55)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 export {}
 

@@ -8,5 +8,8 @@ function factory(fn: ICTORPerson) {
 factory(Person)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 export { }

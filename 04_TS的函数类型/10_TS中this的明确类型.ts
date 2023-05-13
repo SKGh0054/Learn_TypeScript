@@ -19,7 +19,10 @@ function foo(this: { name: string }, info: {name: string}) {
   console.log(this, info)
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 foo.call({ name: "why" }, { name: "kobe" })
 
 export {}

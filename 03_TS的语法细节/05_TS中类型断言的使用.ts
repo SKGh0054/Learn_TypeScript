@@ -10,5 +10,8 @@ const age: number = 18
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 export { }

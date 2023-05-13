@@ -69,5 +69,8 @@ store.eating.call(store.state)
 // 在这个例子中，通过使用ThisType<T> 关键字，可以将T类型的信息与this关键字关联起来。因此，在方法中使用this关键字时，如果需要指定this的类型，可以使用T类型。
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 export { }

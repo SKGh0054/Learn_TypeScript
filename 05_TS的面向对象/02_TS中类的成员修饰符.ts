@@ -18,7 +18,10 @@ class Person {
 }
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 const p = new Person("why", 18)
 // console.log(p.name, p.age)
 // p.name = "kobe"

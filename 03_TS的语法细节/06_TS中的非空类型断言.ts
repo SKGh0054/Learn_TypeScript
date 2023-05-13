@@ -26,4 +26,8 @@ info.friend!.name = "aaa"
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 export { }

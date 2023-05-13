@@ -12,5 +12,8 @@ foo("abc", 111, "cba")
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 export { }

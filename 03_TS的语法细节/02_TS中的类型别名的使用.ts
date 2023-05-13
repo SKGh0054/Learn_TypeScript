@@ -17,4 +17,8 @@ function printPoint(point: pointType) {
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 export { }
