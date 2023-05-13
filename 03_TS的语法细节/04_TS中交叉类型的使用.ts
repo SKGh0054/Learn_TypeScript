@@ -36,8 +36,5 @@ const info: Ikun & ICoder = {  // 这样使用代表info对象必须满足Ikun�
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 export { }

@@ -31,8 +31,4 @@ array1.forEach((value, index, array) => { // callbackfn: (value: string, index: 
 })
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
 export { }

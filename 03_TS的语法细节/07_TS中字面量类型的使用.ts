@@ -35,8 +35,5 @@ const info3 = {
 } as const  // 这种使用 as const 直接将对象中的属性全部转化为字面量类型
 request(info3.url, info3.methods)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 export { }

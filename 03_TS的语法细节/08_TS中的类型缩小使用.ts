@@ -22,10 +22,7 @@ function switchDirection(direction: Direction) {
   }
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 // 3. instanceof: 传入一个日期, 打印日期
 function printDate(date: string | Date) {
   if (date instanceof Date) {

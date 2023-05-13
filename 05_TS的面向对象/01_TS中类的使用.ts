@@ -12,10 +12,6 @@ class Person {
     }
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
 const p1: Person = new Person("wrj", 18)
 const p2: Person = new Person("www", 20)
 

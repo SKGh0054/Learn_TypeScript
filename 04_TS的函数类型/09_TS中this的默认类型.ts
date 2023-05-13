@@ -22,8 +22,4 @@ function foo() {
 
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
 export { }
